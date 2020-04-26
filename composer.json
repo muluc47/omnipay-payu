@@ -1,5 +1,5 @@
 {
-    "name": "bedigit/omnipay-payu",
+    "name": "bileto/omnipay-payu",
     "type": "library",
     "description": "PayU gateway for Omnipay payment processing library",
     "keywords": [
@@ -10,7 +10,7 @@
         "payment",
         "payu",
         "purchase",
-        "larapen"
+        "laravel7"
     ],
     "homepage": "https://github.com/bileto/omnipay-payu",
     "license": "MIT",
