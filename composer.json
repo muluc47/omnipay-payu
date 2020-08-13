@@ -1,5 +1,5 @@
 {
-    "name": "bileto/omnipay-payu",
+    "name": "muluc/omnipay-payu",
     "type": "library",
     "description": "PayU gateway for Omnipay payment processing library",
     "keywords": [
